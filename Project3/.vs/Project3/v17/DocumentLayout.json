@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\ttest\\Project3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B23DAB8-9E08-47CE-A8D3-FE82E8A74A4C}|Project3\\Project3.vcxproj|C:\\Users\\Admin\\Documents\\GitHub\\ttest\\Project3\\Project3\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B23DAB8-9E08-47CE-A8D3-FE82E8A74A4C}|Project3\\Project3.vcxproj|solutionrelative:Project3\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\ttest\\Project3\\Project3\\test.cpp",
+              "RelativeDocumentMoniker": "Project3\\test.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\ttest\\Project3\\Project3\\test.cpp",
+              "RelativeToolTip": "Project3\\test.cpp",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAIsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-31T00:43:27.636Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
